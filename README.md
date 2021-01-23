@@ -1,7 +1,7 @@
 # Hyperparameter_Tuning_Using_Optuna
 <br>
 <p align="center">
-  <img src="https://miro.medium.com/max/1080/1*ykstw7YfoI8doWVaUgUJGA.jpeg" width="500" title="hover text">
+  <img src="https://www.analyticssteps.com/backend/media/thumbnail/3944477/8586207_1591167195_title.jpg" width="500" title="hover text">
 </p>
 <hr>
 <br>
